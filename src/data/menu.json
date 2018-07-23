@@ -1,0 +1,50 @@
+[
+  {
+    "menuCode": "customerModule",
+    "menuName": "客户管理",
+    "child": [
+      {
+        "menuCode": "customerInfo",
+        "menuName": "客户信息"
+      }
+    ]
+  },
+  {
+    "menuCode": "authModule",
+    "menuName": "权限管理",
+    "child": [
+      {
+        "menuCode": "dataProduct",
+        "menuName": "数据产品"
+      },
+      {
+        "menuCode": "roleAdmin",
+        "menuName": "角色部署"
+      }
+    ]
+  },
+  {
+    "menuCode": "queryModule",
+    "menuName": "查询管理",
+    "child": [
+      {
+        "menuCode": "oneQuery",
+        "menuName": "单条查询"
+      },
+      {
+        "menuCode": "taskQuery",
+        "menuName": "任务查询"
+      }
+    ]
+  },
+  {
+    "menuCode": "logModule",
+    "menuName": "日志管理",
+    "child": [
+      {
+        "menuCode": "queryLog",
+        "menuName": "查询日志"
+      }
+    ]
+  }
+]
